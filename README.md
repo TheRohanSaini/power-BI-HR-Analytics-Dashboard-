@@ -1,6 +1,6 @@
-# power-BI-HR-Analytics-Dashboard-
+# Power-BI-HR-Analytics-Dashboard-
 
-* Identified key factors to reduce        attrition
+* Identified key factors to reduce attrition
 
 * Improved the hiring process
 
